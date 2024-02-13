@@ -38,7 +38,7 @@
     name: dockerhub
     data:
       username: tlqkddk123
-      password: younzv520@
+      password: ###
       image: tlqkddk123/spring
     credential:
       id: dockerhub_cred
